@@ -29,3 +29,7 @@ $(document).ready(function() {
         $("#management-img").show();
     })
 })
+
+function validate(form) {
+
+}
