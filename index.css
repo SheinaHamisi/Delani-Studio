@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Roboto";
-    src: url("../FONTS/Roboto-Light.ttf");
+    src: url("./FONTS/Roboto-Light.ttf");
 }
 
 * {
@@ -8,7 +8,7 @@
 }
 
 #hero-section {
-    background-image: url(../IMAGES/h_img.jpg);
+    background-image: url(./IMAGES/h_img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -53,7 +53,7 @@
 }
 
 .services {
-    background-image: url(../IMAGES/s_image.jpg);
+    background-image: url(./IMAGES/s_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -102,7 +102,7 @@
 
 
 .trial{
-    background-image: url(/IMAGES/work4.jpg);
+    background-image: url(./IMAGES/work4.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -111,7 +111,7 @@
 }
 
 .trial1{
-    background-image: url(/IMAGES/work8.jpg);
+    background-image: url(./IMAGES/work8.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -119,7 +119,7 @@
 }
 
 .trial2{
-    background-image: url(/IMAGES/work3.jpg);
+    background-image: url(./IMAGES/work3.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -128,7 +128,7 @@
 }
 
 .trial3{
-    background-image: url(/IMAGES/work2.jpg);
+    background-image: url(./IMAGES/work2.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -137,7 +137,7 @@
 }
 
 .trial4{
-    background-image: url(/IMAGES/work1.jpg);
+    background-image: url(./IMAGES/work1.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -145,7 +145,7 @@
 }
 
 .trial5{
-    background-image: url(/IMAGES/work5.jpg);
+    background-image: url(./IMAGES/work5.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -154,7 +154,7 @@
 }
 
 .trial6{
-    background-image: url(/IMAGES/work6.jpg);
+    background-image: url(./IMAGES/work6.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -163,7 +163,7 @@
 }
 
 .trial7{
-    background-image: url(/IMAGES/work7.jpg);
+    background-image: url(./IMAGES/work7.jpg);
     height:205px;
     width: 240px;
     color:white;
@@ -274,7 +274,7 @@
 }
 
 .contact{
-    background-image: url(../IMAGES/c_image.jpg);
+    background-image: url(./IMAGES/c_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
